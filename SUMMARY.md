@@ -13,6 +13,7 @@
 
 ## Nodes & Validators
 
+* [Getting setup](nodes-and-validators/getting-setup.md)
 * [Running a relayer](nodes-and-validators/running-a-relayer.md)
 
 ## Extras

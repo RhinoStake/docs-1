@@ -1,0 +1,5 @@
+# Added folder for gitbook-cli build
+_book
+
+# Dependency directories
+node_modules/
